@@ -4,4 +4,5 @@ using namespace std;
 
 int main() {
 	cout << "Hello" << endl;//Maks
+	cout << "C++ rules" << endl;
 }
